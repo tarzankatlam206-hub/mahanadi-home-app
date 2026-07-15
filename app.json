@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mahanadi Home App",
-    "slug": "mahanadi-home-app",
+    "name": "Mahanadi Harvester",
+    "slug": "mahanadi-harvester",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,7 +15,7 @@
       "**/*"
     ],
     "android": {
-      "package": "com.mahanadi.homeapp",
+      "package": "com.mahanadi.harvester",
       "versionCode": 1
     }
   }
